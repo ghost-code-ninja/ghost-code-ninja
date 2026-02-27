@@ -5,7 +5,7 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=7CFC00&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!;Automation+%7C+Web+Dev+%7C+Open+Source;Always+building+cool+stuff+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=7CFC00&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!;Senior+Frontend+Engineer+%7C+Open+Source;Always+building+cool+stuff+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
@@ -33,19 +33,10 @@
 <!-- Row 2: Top Languages + Trophies -->
 <p align="center">
   <a href="https://github.com/ghost-code-ninja">
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghost-code-ninja&layout=compact&langs_count=10&theme=merko&hide_border=true" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghost-code-ninja&layout=compact&theme=merko&hide_border=true" />
   </a>
   <a href="https://github.com/ghost-code-ninja?tab=achievements">
-    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ghost-code-ninja&theme=gitdimmed&no-frame=true&column=4&row=2" />
-  </a>
-</p>
-
-<br/>
-
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/ghost-code-ninja">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghost-code-ninja&theme=merko&hide_border=true&area=true" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost-code-ninja&theme=merko&exclude=php,ruby" />
   </a>
 </p>
 
@@ -53,7 +44,7 @@
 
 <!-- GitHub Metrics (extra details) -->
 <p align="center">
-  <img width="98%" src="https://metrics.lecoq.io/ghost-code-ninja?template=classic&config.timezone=Asia%2FSeoul" />
+  <img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghost-code-ninja&theme=merko" />
 </p>
 
 <br/>
