@@ -7,8 +7,8 @@
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost-code-ninja&langs_count=10&theme=merko&layout=compact" width="38%" height="216px" alt="ghost-code-ninja :: Top Langs" />
-<a href="https://github.com/ghost-code-ninja?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ghost-code-ninja&theme=gitdimmed&no-frame=true&column=3&row=2"  width="38%" alt="@ghost-code-ninja's trophy stats"/></a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghost-code-ninja&layout=compact&theme=merko" width="38%" height="216px" alt="ghost-code-ninja :: Top Langs" />
+<a href="https://github.com/ghost-code-ninja?tab=achievements"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost-code-ninja&theme=github_dark"  width="38%" alt="@ghost-code-ninja's trophy stats"/></a>
 </p>
 
 <p align="center">
