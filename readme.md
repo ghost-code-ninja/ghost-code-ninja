@@ -1,28 +1,71 @@
-<h2 style="text-align: center">Github stats: </h2>
-<h4 align="center">Visitor's count :eyes:</h4>
-<p align="center"><img src="https://profile-counter.deno.dev/ghost-code-ninja/count.svg" alt="ghost-code-ninja :: Visitor's Count" /></p>
+<!-- =======================
+   GitHub Stats Section
+======================= -->
 
-<p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=ghost-code-ninja&data=followers,repositories,stars,commits' />
-</p>
- 
+<h2 align="center">⚡ GitHub Stats</h2>
+
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ghost-code-ninja&layout=compact&theme=merko" width="38%" height="216px" alt="ghost-code-ninja :: Top Langs" />
-<a href="https://github.com/ghost-code-ninja?tab=achievements"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ghost-code-ninja&theme=github_dark"  width="38%" alt="@ghost-code-ninja's trophy stats"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=600&color=7CFC00&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!;Automation+%7C+Web+Dev+%7C+Open+Source;Always+building+cool+stuff+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-
-<a href="https://github.com/ghost-code-ninja?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=ghost-code-ninja&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@ghost-code-ninja's github-readme-stats"/></a>
-<a href="https://github.com/ghost-code-ninja?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=ghost-code-ninja&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@ghost-code-ninja's github-readme-streak-stats"/></a>
-
+  <img src="https://profile-counter.deno.dev/ghost-code-ninja/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- <h2>Contact :postbox:</h2>
-<div>
-  <a href = "mailto:devpanda168943@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div> -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=ghost-code-ninja&data=followers,repositories,stars,commits&theme=darkmode" />
+</p>
+
+<br/>
+
+<!-- Row 1: Main Stats + Streak -->
+<p align="center">
+  <a href="https://github.com/ghost-code-ninja">
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=ghost-code-ninja&theme=merko&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/ghost-code-ninja">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=ghost-code-ninja&theme=merko&hide_border=true" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Row 2: Top Languages + Trophies -->
+<p align="center">
+  <a href="https://github.com/ghost-code-ninja">
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ghost-code-ninja&layout=compact&langs_count=10&theme=merko&hide_border=true" />
+  </a>
+  <a href="https://github.com/ghost-code-ninja?tab=achievements">
+    <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ghost-code-ninja&theme=gitdimmed&no-frame=true&column=4&row=2" />
+  </a>
+</p>
+
+<br/>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ghost-code-ninja">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ghost-code-ninja&theme=merko&hide_border=true&area=true" />
+  </a>
+</p>
+
+<br/>
+
+<!-- GitHub Metrics (extra details) -->
+<p align="center">
+  <img width="98%" src="https://metrics.lecoq.io/ghost-code-ninja?template=classic&config.timezone=Asia%2FSeoul" />
+</p>
+
+<br/>
+
+<!-- Snake Animation (Contribution Graph) -->
+<p align="center">
+  <img width="98%" src="https://raw.githubusercontent.com/ghost-code-ninja/ghost-code-ninja/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<br/>
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer" />
 </p>
